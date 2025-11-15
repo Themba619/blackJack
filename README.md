@@ -6,9 +6,8 @@ A classic Blackjack game built with Python and Pygame, featuring a Matrix-style 
 
 - Matrix digital rain effect on welcome screen
 - Classic Blackjack gameplay
-- Card shuffling animation
 - Clean card display with suit colors
-- Betting system with chip management
+- Betting tracker
 
 ## Prerequisites
 
@@ -20,7 +19,7 @@ A classic Blackjack game built with Python and Pygame, featuring a Matrix-style 
 1. **Clone or download this repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Themba619/blackJack
    cd blackJack
    ```
 
