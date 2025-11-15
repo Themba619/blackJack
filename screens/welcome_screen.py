@@ -21,7 +21,7 @@ class WelcomeScreen:
     def update(self):
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
-                return False
+                exit()
             elif event.type == pygame.MOUSEBUTTONDOWN:
                 if self.play_button.collidepoint(event.pos):
                     return "start_game"
